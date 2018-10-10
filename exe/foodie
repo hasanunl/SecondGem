@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require 'second_gem/cli'
+Foodie::CLI.start
+
+
